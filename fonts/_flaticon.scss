@@ -1,0 +1,117 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 30/07/2018 10:53
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-php-1:before { content: "\f100"; }
+.flaticon-php:before { content: "\f101"; }
+.flaticon-javascript:before { content: "\f102"; }
+.flaticon-css:before { content: "\f103"; }
+.flaticon-html5:before { content: "\f104"; }
+.flaticon-placeholder-point:before { content: "\f105"; }
+.flaticon-wifi:before { content: "\f106"; }
+.flaticon-world-wide-internet-signal:before { content: "\f107"; }
+.flaticon-wireless-internet:before { content: "\f108"; }
+.flaticon-antenna-1:before { content: "\f109"; }
+.flaticon-antenna:before { content: "\f10a"; }
+.flaticon-settings-2:before { content: "\f10b"; }
+.flaticon-settings-1:before { content: "\f10c"; }
+.flaticon-settings:before { content: "\f10d"; }
+.flaticon-tools:before { content: "\f10e"; }
+.flaticon-computer-graphic:before { content: "\f10f"; }
+.flaticon-seo:before { content: "\f110"; }
+.flaticon-wordpress-logo:before { content: "\f111"; }
+.flaticon-devices:before { content: "\f112"; }
+.flaticon-idea:before { content: "\f113"; }
+.flaticon-thought:before { content: "\f114"; }
+.flaticon-creativity:before { content: "\f115"; }
+.flaticon-web:before { content: "\f116"; }
+.flaticon-trophy:before { content: "\f117"; }
+.flaticon-book:before { content: "\f118"; }
+.flaticon-open-book:before { content: "\f119"; }
+.flaticon-mortarboard:before { content: "\f11a"; }
+.flaticon-social-care:before { content: "\f11b"; }
+.flaticon-hot-coffee-rounded-cup-on-a-plate-from-side-view:before { content: "\f11c"; }
+.flaticon-manager:before { content: "\f11d"; }
+.flaticon-hotel:before { content: "\f11e"; }
+.flaticon-compass:before { content: "\f11f"; }
+.flaticon-television:before { content: "\f120"; }
+.flaticon-sleeping:before { content: "\f121"; }
+.flaticon-make-up:before { content: "\f122"; }
+.flaticon-support:before { content: "\f123"; }
+.flaticon-placeholder:before { content: "\f124"; }
+.flaticon-magnifier:before { content: "\f125"; }
+.flaticon-knowledge:before { content: "\f126"; }
+    
+    $font-Flaticon-php-1: "\f100";
+    $font-Flaticon-php: "\f101";
+    $font-Flaticon-javascript: "\f102";
+    $font-Flaticon-css: "\f103";
+    $font-Flaticon-html5: "\f104";
+    $font-Flaticon-placeholder-point: "\f105";
+    $font-Flaticon-wifi: "\f106";
+    $font-Flaticon-world-wide-internet-signal: "\f107";
+    $font-Flaticon-wireless-internet: "\f108";
+    $font-Flaticon-antenna-1: "\f109";
+    $font-Flaticon-antenna: "\f10a";
+    $font-Flaticon-settings-2: "\f10b";
+    $font-Flaticon-settings-1: "\f10c";
+    $font-Flaticon-settings: "\f10d";
+    $font-Flaticon-tools: "\f10e";
+    $font-Flaticon-computer-graphic: "\f10f";
+    $font-Flaticon-seo: "\f110";
+    $font-Flaticon-wordpress-logo: "\f111";
+    $font-Flaticon-devices: "\f112";
+    $font-Flaticon-idea: "\f113";
+    $font-Flaticon-thought: "\f114";
+    $font-Flaticon-creativity: "\f115";
+    $font-Flaticon-web: "\f116";
+    $font-Flaticon-trophy: "\f117";
+    $font-Flaticon-book: "\f118";
+    $font-Flaticon-open-book: "\f119";
+    $font-Flaticon-mortarboard: "\f11a";
+    $font-Flaticon-social-care: "\f11b";
+    $font-Flaticon-hot-coffee-rounded-cup-on-a-plate-from-side-view: "\f11c";
+    $font-Flaticon-manager: "\f11d";
+    $font-Flaticon-hotel: "\f11e";
+    $font-Flaticon-compass: "\f11f";
+    $font-Flaticon-television: "\f120";
+    $font-Flaticon-sleeping: "\f121";
+    $font-Flaticon-make-up: "\f122";
+    $font-Flaticon-support: "\f123";
+    $font-Flaticon-placeholder: "\f124";
+    $font-Flaticon-magnifier: "\f125";
+    $font-Flaticon-knowledge: "\f126";
